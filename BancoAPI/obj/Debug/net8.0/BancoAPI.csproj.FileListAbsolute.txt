@@ -160,3 +160,4 @@ C:\Users\david\OneDrive\Desktop\dotnet\BancoAPI\obj\Debug\net8.0\refint\BancoAPI
 C:\Users\david\OneDrive\Desktop\dotnet\BancoAPI\obj\Debug\net8.0\BancoAPI.pdb
 C:\Users\david\OneDrive\Desktop\dotnet\BancoAPI\obj\Debug\net8.0\BancoAPI.genruntimeconfig.cache
 C:\Users\david\OneDrive\Desktop\dotnet\BancoAPI\obj\Debug\net8.0\ref\BancoAPI.dll
+C:\Users\david\OneDrive\Desktop\dotnet\BancoAPI\obj\Debug\net8.0\BancoAPI.sourcelink.json

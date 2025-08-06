@@ -29,6 +29,12 @@ public class CuentaService : ICuentaService
             .FirstOrDefaultAsync(c => c.Id == id);
     }
 
+    public async Task<decimal?> ConsultarSaldo(int cuentaId)
+    {
+        var cuenta = await _context.Cuentas.FindAsync(cuentaId);
+        return cuenta?.Saldo;
+    }
+
     public async Task<Cuenta> Crear(Cuenta cuenta)
     {
         _context.Cuentas.Add(cuenta);
