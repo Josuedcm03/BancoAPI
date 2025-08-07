@@ -38,8 +38,8 @@ Este proyecto es una API REST para la gestión de clientes, cuentas y transaccio
    ```pwsh
    dotnet run --project BancoAPI/BancoAPI.csproj
    ```
-   - La API estará disponible en `https://localhost:5001` o `http://localhost:5000`.
-   - Se puede acceder probar los endpoints desde Swagger en `https://localhost:5001/swagger` o `http://localhost:5000/swagger`.
+   - La API estará disponible en `https://localhost:5032`.
+   - Se puede acceder probar los endpoints desde Swagger en `https://localhost:5032/swagger`.
 
 2. **Prueba los endpoints**
    - Usar Swagger, Postman o el archivo `BancoAPI/BancoAPI.http` para probar los endpoints.
